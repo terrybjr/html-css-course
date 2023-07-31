@@ -1,0 +1,41 @@
+body {
+  border: 5px solid black;
+  font-family: sans-serif;
+}
+
+h1 {
+  background: rgb(208, 208, 208);
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+.post-text {
+  font-size: 10px;
+  text-transform: uppercase;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style: square;
+}
+button {
+  background: black;
+  color: white;
+}
+button:hover {
+  background: white;
+  color: black;
+}
